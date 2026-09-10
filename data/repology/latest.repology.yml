@@ -1,0 +1,145 @@
+- repo: pkgsrc_2026_1
+  srcname: sysutils/lstr
+  binname: lstr
+  visiblename: sysutils/lstr
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Fast, minimalist directory tree viewer
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_2
+  srcname: sysutils/lstr
+  binname: lstr
+  visiblename: sysutils/lstr
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Fast, minimalist directory tree viewer
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
+  srcname: sysutils/lstr
+  binname: lstr
+  visiblename: sysutils/lstr
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: Fast, minimalist directory tree viewer
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: aur
+  srcname: lstr
+  binname: lstr
+  visiblename: lstr
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: newest
+  summary: A fast, minimalist directory tree viewer, written in Rust.
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: lstr-bin
+  binname: lstr-bin
+  visiblename: lstr-bin
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: newest
+  summary: Terminal document viewer for .docx files
+  maintainers:
+    - bgreenwell@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: lstr-git
+  binname: lstr-git
+  visiblename: lstr-git
+  version: 0.2.1.r77.584fc33
+  origversion: 0.2.1.r77.584fc33-1
+  status: rolling
+  summary: A fast, minimalist directory tree viewer, written in Rust.
+  maintainers:
+    - bgreenwell@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: devel/lstr
+  binname: lstr
+  visiblename: devel/lstr
+  version: 0.4.0
+  origversion: 0.4.0_1
+  status: newest
+  summary: Fast, minimalist directory tree viewer
+  maintainers:
+    - sunpoet@freebsd.org
+  categories:
+    - devel
+- repo: homebrew
+  srcname: lstr
+  visiblename: lstr
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Fast, minimalist directory tree viewer
+- repo: homebrew
+  srcname: lstr
+  visiblename: lstr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast, minimalist directory tree viewer
+- repo: nix_stable_25_11
+  srcname: lstr
+  visiblename: lstr
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Fast, minimalist directory tree viewer written in Rust
+  maintainers:
+    - justin@restivo.me
+    - philip.taron@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: lstr
+  visiblename: lstr
+  version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Fast, minimalist directory tree viewer written in Rust
+  maintainers:
+    - justin@restivo.me
+    - philip.taron@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lstr
+  visiblename: lstr
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Fast, minimalist directory tree viewer written in Rust
+  maintainers:
+    - justin@restivo.me
+    - philip.taron@gmail.com
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: lstr
+  visiblename: lstr
+  version: 0.2.0.20250618
+  origversion: null
+  status: outdated
+  summary: List Files in a Tree
+  licenses:
+    - MIT
+  categories:
+    - Filesystem
