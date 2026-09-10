@@ -12,6 +12,18 @@ A fast, minimalist directory tree viewer, written in Rust.
 x install lstr
 ```
 
+## Code insight
+
+Total: **3,534** lines of code across **24** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 3,266 | 197 | 434 | 16 |
+| Sh | 120 | 16 | 26 | 2 |
+| Toml | 69 | 35 | 13 | 3 |
+| Nix | 38 | 0 | 1 | 1 |
+| Json | 30 | 0 | 0 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/bgreenwell/lstr>
@@ -23,7 +35,6 @@ x install lstr
 - **Latest**: `v0.4.0` (2026-07-14)
 - **Last commit**: 2026-08-09
 - **Assets in release**: 27
-- **Published**: 2026-07-14T01:06:12Z
 
 ## Popularity
 
@@ -38,28 +49,60 @@ x install lstr
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 2 | 9 | 3 | 0 | 0 | 5 |
 | 90d | 2026-06-12 | 2 | 33 | 3 | 1 | 0 | 51 |
+| last180d | 2026-03-14 | 2 | 33 | 3 | 1 | 0 | 51 |
 | 360d | 2025-09-15 | 2 | 34 | 3 | 2 | 0 | 52 |
+| last720d | 2024-09-20 | 3 | 47 | 3 | 25 | 1 | 193 |
 
-## Code size
+## Release assets
 
-Total: **3,534** lines of code across **24** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dist-manifest.json](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/dist-manifest.json) | 27.1 KiB | `other` |
+| [lstr-aarch64-apple-darwin-update](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-apple-darwin-update) | 5.8 MiB | `native/darwin/arm64` |
+| [lstr-aarch64-apple-darwin.tar.xz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-apple-darwin.tar.xz) | 864.6 KiB | `native/darwin/arm64` |
+| [lstr-aarch64-apple-darwin.tar.xz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/arm64` |
+| [lstr-aarch64-unknown-linux-gnu-update](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-unknown-linux-gnu-update) | 4.7 MiB | `native/linux/arm64/glibc` |
+| [lstr-aarch64-unknown-linux-gnu.tar.xz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-unknown-linux-gnu.tar.xz) | 953.3 KiB | `native/linux/arm64/glibc` |
+| [lstr-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/arm64/glibc` |
+| [lstr-installer.ps1](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-installer.ps1) | 21.1 KiB | `other` |
+| [lstr-installer.sh](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-installer.sh) | 52.3 KiB | `other` |
+| [lstr-x86_64-apple-darwin-update](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-apple-darwin-update) | 6.0 MiB | `native/darwin/x64` |
+| [lstr-x86_64-apple-darwin.tar.xz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-apple-darwin.tar.xz) | 1.0 MiB | `native/darwin/x64` |
+| [lstr-x86_64-apple-darwin.tar.xz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/x64` |
+| [lstr-x86_64-pc-windows-msvc-update](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc-update) | 5.3 MiB | `native/win/x64` |
+| [lstr-x86_64-pc-windows-msvc.msi](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.msi) | 1.9 MiB | `native/win/x64` |
+| [lstr-x86_64-pc-windows-msvc.msi.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.msi.sha256) | 99 B | `native/win/x64` |
+| [lstr-x86_64-pc-windows-msvc.zip](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
+| [lstr-x86_64-pc-windows-msvc.zip.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/x64` |
+| [lstr-x86_64-unknown-linux-gnu-update](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-gnu-update) | 6.6 MiB | `native/linux/x64/glibc` |
+| [lstr-x86_64-unknown-linux-gnu.tar.xz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-gnu.tar.xz) | 1.1 MiB | `native/linux/x64/glibc` |
+| [lstr-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/x64/glibc` |
+| [lstr-x86_64-unknown-linux-musl-update](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-musl-update) | 6.7 MiB | `native/linux/x64/musl` |
+| [lstr-x86_64-unknown-linux-musl.tar.xz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-musl.tar.xz) | 1.2 MiB | `native/linux/x64/musl` |
+| [lstr-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-musl.tar.xz.sha256) | 105 B | `native/linux/x64/musl` |
+| [lstr.rb](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr.rb) | 2.4 KiB | `other` |
+| [sha256.sum](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/sha256.sum) | 785 B | `other` |
+| [source.tar.gz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/source.tar.gz) | 506.1 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/source.tar.gz.sha256) | 81 B | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 3,266 | 197 | 434 | 16 |
-| Sh | 120 | 16 | 26 | 2 |
-| Toml | 69 | 35 | 13 | 3 |
-| Nix | 38 | 0 | 1 | 1 |
-| Json | 30 | 0 | 0 | 2 |
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/lstr). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.4.0` | ✅ latest |
+| Nix unstable | `0.4.0` | ✅ latest |
 
 ## Improve this data
 
 Install metadata for lstr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lstr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/lstr.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lstr.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:38:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:48:38Z._
