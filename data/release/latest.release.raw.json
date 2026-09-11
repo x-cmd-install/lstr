@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 53557,
       "digest": "sha256:503cce2521651ef12a8595df7a787b83a0500fe41522b0baadc8d369fd617a1b",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-07-14T01:06:10Z",
       "updated_at": "2026-07-14T01:06:10Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-installer.sh"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1990656,
       "digest": "sha256:4f0d52c72e4bae8194108f55df0a6e2e4d3302d61fc80f0ec6d2a78bfd139f38",
-      "download_count": 144,
+      "download_count": 147,
       "created_at": "2026-07-14T01:06:11Z",
       "updated_at": "2026-07-14T01:06:11Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.msi"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 6912576,
       "digest": "sha256:0a1fae2d4323f45068fcc5d731baf8a544c4cd59de52e6d17479afc97a59d5c4",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-07-14T01:06:11Z",
       "updated_at": "2026-07-14T01:06:12Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-gnu-update"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1120668,
       "digest": "sha256:748b78f0c10996cfc3e0b6a49242d4e318313ff4e15b5ddf4bfa630b078bf898",
-      "download_count": 69,
+      "download_count": 71,
       "created_at": "2026-07-14T01:06:11Z",
       "updated_at": "2026-07-14T01:06:11Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-gnu.tar.xz"
