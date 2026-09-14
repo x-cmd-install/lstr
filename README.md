@@ -38,7 +38,7 @@ Total: **3,534** lines of code across **24** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,535 · **Forks**: 29 · **Open issues**: 26 · **Contributors**: 8
+- **Stars**: 1,534 · **Forks**: 29 · **Open issues**: 26 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **3,534** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 2 | 3 | 0 | 0 | 2 |
-| 90d | 2026-06-15 | 2 | 33 | 3 | 1 | 0 | 51 |
-| last180d | 2026-03-17 | 2 | 33 | 3 | 1 | 0 | 51 |
-| 360d | 2025-09-18 | 2 | 34 | 3 | 2 | 0 | 52 |
-| last720d | 2024-09-23 | 3 | 47 | 3 | 25 | 1 | 193 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 2 | 3 | 0 | 0 | 2 |
+| 90d | 2026-06-16 | 2 | 33 | 3 | 1 | 0 | 51 |
+| last180d | 2026-03-18 | 2 | 33 | 3 | 1 | 0 | 51 |
+| 360d | 2025-09-19 | 2 | 34 | 3 | 2 | 0 | 52 |
+| last720d | 2024-09-24 | 3 | 47 | 3 | 25 | 1 | 193 |
 
 ## Release assets
 
@@ -87,15 +87,6 @@ Total: **3,534** lines of code across **24** files in the top 5 languages.
 | [source.tar.gz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/source.tar.gz) | 506.1 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/lstr). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.4.0` | ✅ latest |
-| Nix unstable | `0.4.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for lstr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lstr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +96,4 @@ Install metadata for lstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:42:28Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:53:14Z._

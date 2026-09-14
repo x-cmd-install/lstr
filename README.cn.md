@@ -38,7 +38,7 @@ x install lstr
 
 ## 流行度
 
-- **Star**: 1,535 · **Fork**: 29 · **开放 issue**: 26 · **贡献者**: 8
+- **Star**: 1,534 · **Fork**: 29 · **开放 issue**: 26 · **贡献者**: 8
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install lstr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 2 | 3 | 0 | 0 | 2 |
-| 90d | 2026-06-15 | 2 | 33 | 3 | 1 | 0 | 51 |
-| last180d | 2026-03-17 | 2 | 33 | 3 | 1 | 0 | 51 |
-| 360d | 2025-09-18 | 2 | 34 | 3 | 2 | 0 | 52 |
-| last720d | 2024-09-23 | 3 | 47 | 3 | 25 | 1 | 193 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 2 | 3 | 0 | 0 | 2 |
+| 90d | 2026-06-16 | 2 | 33 | 3 | 1 | 0 | 51 |
+| last180d | 2026-03-18 | 2 | 33 | 3 | 1 | 0 | 51 |
+| 360d | 2025-09-19 | 2 | 34 | 3 | 2 | 0 | 52 |
+| last720d | 2024-09-24 | 3 | 47 | 3 | 25 | 1 | 193 |
 
 ## Release 资产
 
@@ -87,15 +87,6 @@ x install lstr
 | [source.tar.gz](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/source.tar.gz) | 506.1 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/bgreenwell/lstr/releases/download/v0.4.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lstr) 上共有 **13** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.4.0` | ✅ latest |
-| Nix unstable | `0.4.0` | ✅ latest |
-
 ## 改进这些数据
 
 lstr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lstr` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -105,4 +96,4 @@ lstr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:42:29Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:53:15Z._
