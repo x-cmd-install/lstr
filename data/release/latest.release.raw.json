@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 885328,
       "digest": "sha256:9d6fce9723c073c408ce038d7b74b3e4547cd60fbb37cd58bf5e8f1783be4f6c",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-07-14T01:06:10Z",
       "updated_at": "2026-07-14T01:06:10Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-aarch64-apple-darwin.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1990656,
       "digest": "sha256:4f0d52c72e4bae8194108f55df0a6e2e4d3302d61fc80f0ec6d2a78bfd139f38",
-      "download_count": 168,
+      "download_count": 175,
       "created_at": "2026-07-14T01:06:11Z",
       "updated_at": "2026-07-14T01:06:11Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.msi"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1776853,
       "digest": "sha256:92be741d5868abb3ae5a3cff109a8679b674c65fa53186cf044968e026c13282",
-      "download_count": 74,
+      "download_count": 77,
       "created_at": "2026-07-14T01:06:11Z",
       "updated_at": "2026-07-14T01:06:11Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-pc-windows-msvc.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1120668,
       "digest": "sha256:748b78f0c10996cfc3e0b6a49242d4e318313ff4e15b5ddf4bfa630b078bf898",
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2026-07-14T01:06:11Z",
       "updated_at": "2026-07-14T01:06:11Z",
       "browser_download_url": "https://github.com/bgreenwell/lstr/releases/download/v0.4.0/lstr-x86_64-unknown-linux-gnu.tar.xz"
