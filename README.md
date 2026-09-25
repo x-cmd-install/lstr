@@ -14,11 +14,11 @@ x install lstr
 
 ## Code insight
 
-Total: **3,534** lines of code across **24** files in the top 5 languages.
+Total: **3,921** lines of code across **25** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,266 | 197 | 434 | 16 |
+| Rust | 3,653 | 208 | 499 | 17 |
 | Sh | 120 | 16 | 26 | 2 |
 | Toml | 69 | 35 | 13 | 3 |
 | Nix | 38 | 0 | 1 | 1 |
@@ -33,27 +33,27 @@ Total: **3,534** lines of code across **24** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.0` (2026-07-14)
-- **Last commit**: 2026-08-09
+- **Last commit**: 2026-09-24
 - **Assets in release**: 27
 
 ## Popularity
 
-- **Stars**: 1,540 · **Forks**: 30 · **Open issues**: 26 · **Contributors**: 8
+- **Stars**: 1,541 · **Forks**: 30 · **Open issues**: 26 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 47 · **Open PRs**: 4 · **Closed issues**: 25 · **Open issues**: 1 · **Commits**: 193
+- **Releases**: 3 · **Merged PRs**: 48 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 1 · **Commits**: 196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 4 | 0 | 0 | 2 |
-| 90d | 2026-06-26 | 2 | 33 | 4 | 1 | 0 | 51 |
-| last180d | 2026-03-28 | 2 | 33 | 4 | 1 | 0 | 51 |
-| 360d | 2025-09-29 | 2 | 34 | 4 | 2 | 0 | 52 |
-| last720d | 2024-10-04 | 3 | 47 | 4 | 25 | 1 | 193 |
+| 30d | 2026-08-26 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-27 | 0 | 1 | 3 | 0 | 0 | 4 |
+| 90d | 2026-06-27 | 2 | 34 | 3 | 1 | 0 | 53 |
+| last180d | 2026-03-29 | 2 | 34 | 3 | 1 | 0 | 53 |
+| 360d | 2025-09-30 | 2 | 35 | 3 | 2 | 0 | 54 |
+| last720d | 2024-10-05 | 3 | 48 | 3 | 25 | 1 | 196 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:33:01Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:42:44Z._
