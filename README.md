@@ -38,22 +38,22 @@ Total: **3,921** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,545 · **Forks**: 31 · **Open issues**: 26 · **Contributors**: 9
+- **Stars**: 1,545 · **Forks**: 31 · **Open issues**: 28 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 48 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 1 · **Commits**: 196
+- **Releases**: 3 · **Merged PRs**: 48 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 3 · **Commits**: 196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-08 | 0 | 1 | 3 | 0 | 0 | 2 |
-| 90d | 2026-07-09 | 2 | 34 | 3 | 1 | 0 | 19 |
-| last180d | 2026-04-10 | 2 | 34 | 3 | 1 | 0 | 53 |
-| 360d | 2025-10-12 | 2 | 35 | 3 | 2 | 0 | 54 |
-| last720d | 2024-10-17 | 3 | 48 | 3 | 25 | 1 | 196 |
+| 30d | 2026-09-08 | 0 | 1 | 0 | 0 | 2 | 2 |
+| last60d | 2026-08-09 | 0 | 1 | 3 | 0 | 2 | 2 |
+| 90d | 2026-07-10 | 2 | 34 | 3 | 1 | 2 | 19 |
+| last180d | 2026-04-11 | 2 | 34 | 3 | 1 | 2 | 53 |
+| 360d | 2025-10-13 | 2 | 35 | 3 | 2 | 2 | 54 |
+| last720d | 2024-10-18 | 3 | 48 | 3 | 25 | 3 | 196 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:46:43Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:53:59Z._
