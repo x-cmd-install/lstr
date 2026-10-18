@@ -38,7 +38,7 @@ Total: **3,921** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,544 · **Forks**: 34 · **Open issues**: 28 · **Contributors**: 9
+- **Stars**: 1,545 · **Forks**: 36 · **Open issues**: 28 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **3,921** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 1 | 0 | 2 | 1 |
-| last60d | 2026-08-18 | 0 | 1 | 1 | 0 | 2 | 2 |
-| 90d | 2026-07-19 | 0 | 3 | 4 | 0 | 2 | 6 |
-| last180d | 2026-04-20 | 2 | 34 | 4 | 1 | 2 | 53 |
-| 360d | 2025-10-22 | 2 | 35 | 4 | 2 | 2 | 54 |
-| last720d | 2024-10-27 | 3 | 48 | 4 | 25 | 3 | 196 |
+| 30d | 2026-09-18 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-08-19 | 0 | 1 | 1 | 0 | 2 | 2 |
+| 90d | 2026-07-20 | 0 | 1 | 4 | 0 | 2 | 4 |
+| last180d | 2026-04-21 | 2 | 34 | 4 | 1 | 2 | 53 |
+| 360d | 2025-10-23 | 2 | 35 | 4 | 2 | 2 | 54 |
+| last720d | 2024-10-28 | 3 | 48 | 4 | 25 | 3 | 196 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for lstr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:12:15Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:25:06Z._
