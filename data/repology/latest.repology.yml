@@ -96,17 +96,6 @@
     - philip.taron@gmail.com
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: lstr
-  visiblename: lstr
-  version: 0.2.0.20250618
-  origversion: null
-  status: outdated
-  summary: List Files in a Tree
-  licenses:
-    - MIT
-  categories:
-    - Filesystem
 - repo: pkgsrc_2026_2
   srcname: sysutils/lstr
   binname: lstr
